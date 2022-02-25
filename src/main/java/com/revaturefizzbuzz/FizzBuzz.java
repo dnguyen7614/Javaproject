@@ -19,4 +19,6 @@ public class FizzBuzz {
             System.out.println("Not a multiple of 3 and 5");
         }
     }
+
+
 }
